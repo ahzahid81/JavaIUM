@@ -1,4 +1,4 @@
-// Lab 3
+// Lab 3: Understanding flow of Control
 // Part 1 : Boolean Expression and Relation Operators
 
 import java.util.Scanner;

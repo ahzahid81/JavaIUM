@@ -1,5 +1,6 @@
-//Lab 3: Using if statement
-//Task 2: Membership Renewal
+// Lab 3: Understanding flow of Control
+// Part 3: Using if statement
+// Task 2: Membership Renewal
 
 import java.util.Scanner;
 
@@ -19,6 +20,7 @@ public class MembershipRenewal {
       
       if(isMember == true && yearsOfMembership >=2)
          System.out.println("You are eligible for membership renewal!");
+
       
    }
 }
