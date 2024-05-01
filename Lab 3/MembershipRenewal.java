@@ -20,6 +20,12 @@ public class MembershipRenewal {
       
       if(isMember == true && yearsOfMembership >=2)
          System.out.println("You are eligible for membership renewal!");
+         
+      // Part 5
+      // Task 2
+      else{
+         System.out.println("You are not eligible for membership renewal.");
+      }
 
       
    }
